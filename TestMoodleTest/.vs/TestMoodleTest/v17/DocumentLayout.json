@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\pract5_okfks\\TestMoodleTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA868C71-F3CF-436E-A764-28D40EC2C5DC}|TestMoodleTest.csproj|c:\\users\\m20er\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\pract5_okfks\\testmoodletest\\moodletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA868C71-F3CF-436E-A764-28D40EC2C5DC}|TestMoodleTest.csproj|solutionrelative:moodletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoodleTests.cs",
+              "DocumentMoniker": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\pract5_okfks\\TestMoodleTest\\MoodleTests.cs",
+              "RelativeDocumentMoniker": "MoodleTests.cs",
+              "ToolTip": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\pract5_okfks\\TestMoodleTest\\MoodleTests.cs",
+              "RelativeToolTip": "MoodleTests.cs",
+              "ViewState": "AgIAACMCAAAAAAAAAAAmwDwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:43:23.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
